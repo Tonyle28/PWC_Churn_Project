@@ -25,4 +25,5 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 - Git & GitHub
 
 ## 🖥️ Key data insights
+- Overall churn rate: 
 ![alt text](image.png)
