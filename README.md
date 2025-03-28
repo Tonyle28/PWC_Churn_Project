@@ -13,6 +13,7 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 - Explore service usage, billing preferences, and contract types.
 
 ### Phase 2: Predicting Customer Churn
+- Feature engineering
 - Select key features (e.g. tenure, contract type, monthly charges).
 - Train ML models (Logistic Regression, Decision Tree, XGBoost).
 - Evaluate using accuracy, precision, recall, F1, and AUC-ROC.
@@ -22,3 +23,6 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 - Python, Jupyter Notebook
 - Pandas, Scikit-learn, XGBoost, Matplotlib
 - Git & GitHub
+
+## 🖥️ Key data insights
+![alt text](image.png)
