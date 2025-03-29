@@ -34,7 +34,7 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 
 ![alt text](image-4.png)
 
--Churn by Senior Citizen Status: Non-senior citizens account for 21.9% of churn, while only 4.6% of senior citizens have churned.
+- Churn by Senior Citizen Status: Non-senior citizens account for 21.9% of churn, while only 4.6% of senior citizens have churned.
 
 ![alt text](image-5.png)
 
