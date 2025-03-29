@@ -72,3 +72,15 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 5. **Tenure** – Shorter customer tenure strongly correlates with higher churn; new users are more likely to leave.
 
 ![Feature Importance](images/image-12.png)
+
+## 💡 Recommendations
+- 📆 **Onboard New Users**: Engage during first 10 months with check-ins & upgrades.
+- 💎 **Improve Premium Offerings**: Add value, clarity, and prioritize support.
+- 📜 **Promote Long-Term Contracts**: Use discounts or benefits to lock in loyalty.
+- 🛠️ **Boost Support Interaction**: Identify and re-engage silent churners.
+
+## 🔗 View Full Code
+[Open in Google Colab](https://colab.research.google.com/drive/1DSRLM_FVk6aqTr2_Wf4Zt51wi0j8jTI1#scrollTo=3j3UtGwY0O5b)
+
+## 👋 Contact
+For questions or feedback, please reach out to tonyle2814@gmail.com.
