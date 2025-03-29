@@ -26,30 +26,30 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 
 ## 🖥️ Key data insights
 
--  Churn Distribution: 26.58% of customers have churned.
+-  **Churn Distribution:** 26.58% of customers have churned.
 
 ![Churn Distribution](images/image.png)
 
-- Churn by Tenure and Gender: Nearly 50% of churned customers leave within the first 10 months. Early churn is slightly higher among females (50.69%) than males (48.06%).
+- **Churn by Tenure and Gender:** Nearly 50% of churned customers leave within the first 10 months. Early churn is slightly higher among females (50.69%) than males (48.06%).
 
 ![Churn by Tenure and Gender](images/image-4.png)
 
-- Churn by Senior Citizen Status: Non-senior citizens account for 21.9% of churn, while only 4.6% of senior citizens have churned.
+- **Churn by Senior Citizen Status:** Non-senior citizens account for 21.9% of churn, while only 4.6% of senior citizens have churned.
 
 ![Churn by Senior Citizen Status](images/image-5.png)
 
-- Churn by Service Usage: Premium users with multiple lines or fiber services show higher churn.
+- **Churn by Service Usage:** Premium users with multiple lines or fiber services show higher churn.
 
 ![Churn by Service Usage](images/image-6.png)
 ![Churn by Service Usage](images/image-7.png)
 ![Churn by Service Usage](images/image-8.png)
 
 
--  Churn Rate by Contract Type: Month-to-month contracts have the highest churn rate. Churn drops sharply with 1-year and 2-year contracts.
+-  **Churn Rate by Contract Type:** Month-to-month contracts have the highest churn rate. Churn drops sharply with 1-year and 2-year contracts.
 
 ![Churn Rate by Contract Type](images/image-9.png)
 
-- Churn and Support Engagement: Most churned customers had little or no support interaction.
+- **Churn and Support Engagement:** Most churned customers had little or no support interaction.
 
 ![Churn and Support Engagement](images/image-10.png)
 
@@ -64,7 +64,7 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 
 ![Confusion Matrix](images/image-11.png)
 
-- Top 5 Predictors of Churn (XGBoost)
+- **Top 5 Predictors of Churn (XGBoost)**
 1. **Contract** – Most important feature. Customers on month-to-month contracts have the highest churn risk.
 2. **Technical Support Tickets (numTechTickets)** – Low interaction with support often signals silent dissatisfaction.
 3. **Online Security** – Customers without security services are more likely to churn, indicating trust and safety concerns.
