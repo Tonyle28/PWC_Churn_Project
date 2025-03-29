@@ -16,7 +16,7 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 - Feature engineering
 - Select key features (e.g. tenure, contract type, monthly charges).
 - Train ML models (Logistic Regression, Decision Tree, XGBoost).
-- Evaluate using accuracy, precision, recall, F1, and AUC-ROC.
+- Evaluate using accuracy, precision, recall, and F1-Score.
 - Derive insights and churn reduction recommendations.
 
 ## 🛠️ Tech Stack
@@ -25,5 +25,10 @@ Understand customer behavior and build a predictive model to identify at-risk cu
 - Git & GitHub
 
 ## 🖥️ Key data insights
-- Overall churn rate: 
+-  Churn Distribution: 26.58% of customers have churned.
 ![alt text](image.png)
+
+-  Churn Rate by Contract Type: Month-to-month contracts have the highest churn rate. Churn drops sharply with 1-year and 2-year contracts.
+![alt text](image-1.png)
+
+- 
